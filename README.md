@@ -2,4 +2,4 @@
 
 Microsoft Excel (XLSX) file for data preprocessing and evaluation of K-means results.
 
-DAT files for clustering & ordination analysis of Rovash scripts and inscriptions using Past4 software.
+DAT files for clustering & ordination analysis of the tested pattern systems (Rovash scripts) and graph sequences (inscriptions) using Past4 software.
